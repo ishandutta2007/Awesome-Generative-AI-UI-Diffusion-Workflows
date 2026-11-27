@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-UI-Diffusion-Workflows?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -57,9 +57,9 @@ The commercial SaaS layer displays **strong market concentration** around creati
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by repository star count. Badges link directly to each project's stargazers page.*
+*Sorted descending by repository Stars_Count. Badges link directly to each project's stargazers page.*
 
-| 📦 Repository & Stars | 📜 License | 🖥️ Architecture / Interface Style | 📝 Highlights & Core Capabilities |
+| 📦 Repository & GitHub_Stars | 📜 License | 🖥️ Architecture / Interface Style | 📝 Highlights & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** <br> [![Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | `AGPL-3.0` | Gradio WebUI | The foundational, battle-tested open-source web interface for Stable Diffusion. Massive ecosystem of 500+ extensions, ControlNet, LoRA, and inpainting tools. |
 | **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** <br> [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) | `GPL-3.0` | Modular Node Graph | The industry-standard modular node-based diffusion execution engine. Powers reproducible graph workflows, FLUX, SDXL, video diffusion, and headless API serving. |
